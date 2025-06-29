@@ -3,20 +3,6 @@ Git is free software.
 
 这是git
 
-
-
-Git is a distributed version control system.
-Git is free software.
-
-
-
-ssss
-
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-
-
-
-
-fsf
-dsad
+Git has a mutable index called stage.
